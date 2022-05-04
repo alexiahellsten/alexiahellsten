@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hello! 👋</h1
+<p>My name is Alexia and I'm a front-end developer student living in Stockholm.</p>
 
-<!--
-**alexiahellsten/alexiahellsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently learning **Node.js and MongoDB**.
 
-Here are some ideas to get you started:
+<h3 align="left">My skillset includes:</h3>
+HTML · CSS · Sass · Bootstrap · Handlebars · JavaScript · TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Node.js · MongoDB · Mongoose · Express · Git · Cypress · Postman
+
+Visual Studio Code ·  Adobe Photoshop · Figma
+ 
+<h3 align="left">Get in touch!</h1>
+
+- [Linkedin](https://www.linkedin.com/in/alexia-hellsten-41b51213a/)
+- [Email](mailto:alexia.hellsten@gmail.com)
+
