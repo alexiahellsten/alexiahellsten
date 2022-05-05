@@ -4,7 +4,7 @@
 I’m currently learning **Node.js and MongoDB**.
 
 <h3 align="left">My skillset includes:</h3>
-HTML · CSS · Sass · Bootstrap · Handlebars · JavaScript · TypeScript
+HTML · CSS · Sass · JavaScript · TypeScript · Bootstrap · Handlebars
 
 
 Node.js · MongoDB · Mongoose · Express · Git · Cypress · Postman
