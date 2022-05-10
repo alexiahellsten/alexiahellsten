@@ -11,7 +11,7 @@ Node.js · MongoDB · Mongoose · Express · Git · Cypress · Postman
 
 Visual Studio Code ·  Adobe Photoshop · Figma
  
-<h3 align="left">Get in touch!</h1>
+<h3 align="left">Say hi!</h1>
 
 - [Linkedin](https://www.linkedin.com/in/alexia-hellsten-41b51213a/)
 - [Email](mailto:alexia.hellsten@gmail.com)
