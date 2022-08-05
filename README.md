@@ -1,15 +1,14 @@
 <h1 align="center">Hello! 👋</h1
-<p>My name is Alexia and I'm a front-end developer student living in Stockholm.</p>
+<p>My name is Alexia and I'm a passionate junior-level coder from Stockholm.</p>
 
-I’m currently learning **Node.js and MongoDB**.
+I’m currently creating my first portfolio with **Eleventy** and **Bulma**.
 
-<h3 align="left">My skillset includes:</h3>
+<h3 align="left">During the past year, I've been learning:</h3>
 HTML · CSS · Sass · JavaScript · TypeScript · Bootstrap · Handlebars
-
 
 Node.js · MongoDB · Mongoose · Express · Git · Cypress · Postman
 
-Visual Studio Code ·  Adobe Photoshop · Figma
+11ty ·  Bulma · Figma · Canva
  
 <h3 align="left">Say hi!</h1>
 
