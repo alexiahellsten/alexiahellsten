@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋</h1
-<p>My name is Alexia and I'm a passionate junior-level coder from Stockholm.</p>
+<p>My name is Alexia and I'm a passionate coder from Stockholm.</p>
 
 I’m currently creating my first portfolio with **Eleventy** and **Bulma**.
 
