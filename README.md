@@ -3,7 +3,7 @@
 
 I’m currently creating my first portfolio with **Eleventy** and **Bulma**.
 
-<h3 align="left">During the past year, I've been learning:</h3>
+<h3 align="left">Things I've learnt since beginning my coding journey:</h3>
 HTML · CSS · Sass · JavaScript · TypeScript · Bootstrap · Handlebars
 
 Node.js · MongoDB · Mongoose · Express · Git · Cypress · Postman
