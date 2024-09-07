@@ -3,9 +3,8 @@
 
 I’m currently creating my first portfolio with **Eleventy** and **Bulma**.
 
-<h3 align="left">Things I've learnt since beginning my coding journey:</h3>
+<h3 align="left">Things I've been learning since beginning my coding journey:</h3>
 HTML · CSS · Sass · JavaScript · TypeScript · Bootstrap · Handlebars
-
 Node.js · MongoDB · Mongoose · Express · Git · Cypress · Postman
 
 11ty ·  Bulma · Figma · Canva
