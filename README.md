@@ -3,8 +3,8 @@ My name is Alexia and I'm a passionate coder currently studying front end develo
 <br>At the moment I'm focusing on deepening my previous knowledge and exploring some new technologies.</p>
 
 #### I'm currently learning and experimenting with:
-HTML · CSS · Sass · Tailwind · JavaScript · TypeScript ·
-Bulma
+JavaScript · TypeScript · React · Angular 
+<br>HTML · CSS · Sass · Tailwind · Bulma
 <br>Express · Node.js · MongoDB · Mongoose · SQLite · Git · Cypress 
 <br>Postman · Figma · 11ty · Handlebars · Nunjucks · EJS
 
