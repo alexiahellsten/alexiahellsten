@@ -3,7 +3,7 @@ I'm Alexia, an aspiring fullstack developer currently studying my final year of 
 
 At the moment I'm focusing on strengthening my foundational skills while also exploring some new technologies.
 
-When I’m not coding, I'm most likely sketching out an art project, curating the perfect coding playlist, working on my problem solving skills on the climbing wall or sipping coffee like it’s part of my tech stack.
+When I’m not coding, I'm most likely sketching out an art project, curating the perfect playlist, solving problems on the climbing wall or sipping coffee like it’s part of my tech stack.
 
 
 ## 🌼 My Ever-Growing Tech Garden
