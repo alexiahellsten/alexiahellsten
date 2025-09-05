@@ -25,6 +25,6 @@ When I’m not coding, I'm most likely sketching out an art project, curating th
 
 ##
 
-#### Say hi!
+### Say hi!
 
 - [Linkedin](https://www.linkedin.com/in/alexia-hellsten-41b51213a/)
